@@ -33,3 +33,4 @@ The scripts use the Overpass API which has rate limits. If you encounter HTTP er
 ## License
 
 The scripts in this repository are released under the MIT License. The text data was generated from public OpenStreetMap data which is licensed under the Open Database License (ODbL). Please credit OpenStreetMap contributors if you redistribute the data.
+
