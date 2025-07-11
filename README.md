@@ -74,6 +74,7 @@ Dieser Datensatz ist eine heterogene Sammlung benannter Orte, die nicht durch di
 
 *   **Verwendung der Daten:** Sie können die `.txt`-Dateien im `/data`-Verzeichnis direkt in Ihren Projekten verwenden. Beachten Sie bitte die Lizenz- und Attributionsanforderungen.
 *   **Replikation des Prozesses:** Die `/notebooks` enthalten den gesamten Python-Code, um die Datenabfragen und Filterprozesse selbst auszuführen. Dies ist nützlich, wenn Sie die Methodik anpassen, Daten für eine andere Region sammeln oder aktuellere Daten abrufen möchten. Benötigte Hauptbibliotheken sind `overpy` und `spacy`.
+*   **Schritt-für-Schritt-Notebooks:** Die Dateien `data_collection_organization.ipynb` und `data_collection_other.ipynb` erklären kompakt jeden Schritt von der Abfrage bis zum Speichern der Ergebnisse.
 
 ## Lizenz und Attribution
 
