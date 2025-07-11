@@ -9,26 +9,14 @@ The repository is provided as an example of how we retrieved and processed the d
 ```
 .
 ├── data
-│   ├── location_hospital
-│   ├── location_organization
-│   └── location_other
+│   ├── hospital
+│   ├── organization
+│   └── other
 └── notebook
 ```
 
 - **data/** contains the resulting text lists with one location name per line. Each subfolder represents a group of locations (e.g. hospitals, organisations or other features).
 - **notebook/** contains the original Jupyter notebooks used during the collection.
-
-## Usage
-
-The notebooks can be executed with Python 3.10+. The required packages are listed in `requirements.txt`.
-
-Example to recreate the list of healthcare facility names:
-
-```bash
-python scripts/fetch_hospitals.py --output data/location_hospital/location_hospital.txt
-```
-
-The scripts use the Overpass API which has rate limits. If you encounter HTTP errors, please try again later.
 
 ## License
 
