@@ -67,7 +67,7 @@ Dieser Datensatz ist eine heterogene Sammlung benannter Orte, die nicht durch di
 │
 ├── notebooks/            # Jupyter Notebooks zur Replikation der Datenerhebung und -filterung
 │
-└── README.md             # Diese Datei
+└── README.de.md             # Diese Datei
 ```
 
 ## Wie man dieses Repository nutzt
@@ -82,4 +82,8 @@ Die Skripte und Notebooks in diesem Repository werden unter der **MIT-Lizenz** v
 Die Daten in den `.txt`-Dateien stammen von OpenStreetMap und unterliegen der **Open Database License (ODbL)**. Wenn Sie diese Daten verwenden oder weiterverbreiten, sind Sie verpflichtet, OpenStreetMap und seine Mitwirkenden zu nennen. 
 
 Weitere Informationen finden Sie unter [www.openstreetmap.org/copyright](http://www.openstreetmap.org/copyright).
+
+## Förderung
+
+Diese Arbeit wurde vom Bundesministerium für Bildung und Forschung (BMBF) im Rahmen des GeMTeX-Projekts gefördert (Förderkennzeichen: 01ZZ2314I).
 
