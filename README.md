@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-EN-informational)](README.en.md)
+[![en](https://img.shields.io/badge/lang-EN-informational)](README.md)
 [![de](https://img.shields.io/badge/lang-DE-informational)](README.de.md)
 
 # OSM-Based Location Entity Datasets
