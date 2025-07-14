@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-EN-informational)](README.en.md)
+[![de](https://img.shields.io/badge/lang-DE-informational)](README.de.md)
+
 # OSM-Based Location Entity Datasets
 
 This repository serves as a supplementary resource to disclose the methodology used for creating location-based entity lists. These lists were used for generating surrogate data in a research project and are based entirely on data from OpenStreetMap (OSM).
